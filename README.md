@@ -1,2 +1,2 @@
 # Hydraulic-Excavator
-Hydraulic excavator designed on Solidworks.
+Model of Hydraulic excavator designed on Solidworks.
